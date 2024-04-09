@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\bin\Debug\net6.0\holamundo.exe
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\bin\Debug\net6.0\holamundo.deps.json
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\bin\Debug\net6.0\holamundo.runtimeconfig.json
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\bin\Debug\net6.0\holamundo.dll
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\bin\Debug\net6.0\holamundo.pdb
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.AssemblyInfo.cs
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.dll
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\refint\holamundo.dll
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.pdb
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\holamundo.genruntimeconfig.cache
+C:\Users\USER\Desktop\deber\hola-mundo .NET\holamundo\obj\Debug\net6.0\ref\holamundo.dll
